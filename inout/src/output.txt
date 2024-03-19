@@ -1,0 +1,1 @@
+Student [MSV=2, name=kim, gender=nuwx, pypoint=6, japoint=8, avg=7.0, check=null]
